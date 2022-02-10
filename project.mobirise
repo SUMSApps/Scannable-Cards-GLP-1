@@ -52,7 +52,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "mbrsiteDomain": "eywlcai8tf",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
