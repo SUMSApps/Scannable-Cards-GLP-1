@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GLP-1 Receptor Agonists",
-    "currentPage": "Semaglutide.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "mbrsiteDomain": "eywlcai8tf"
+    "mbrsiteDomain": "eywlcai8tf",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -79,7 +80,7 @@
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">Dulaglutide\n<div>Exenatide\n</div><div>Exenatide prolonged-release\n</div><div>Liraglutide\n</div><div>Lixisenatide\n</div><div>Semaglutide</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><a href=\"Dulaglutide.html\" class=\"text-primary\">Dulaglutide</a>\n<div><a href=\"Exenatide.html\" class=\"text-primary\">Exenatide</a>\n</div><div><a href=\"Exenatide-prolonged-release.html\" class=\"text-primary\">Exenatide prolonged-release</a>\n</div><div><a href=\"Liraglutide.html\" class=\"text-primary\">Liraglutide</a>\n</div><div><a href=\"Lixisenatide.html\" class=\"text-primary\">Lixisenatide</a>\n</div><div><a href=\"Semaglutide.html\" class=\"text-primary\">Semaglutide</a></div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "smrB511GBy",
           "_anchor": "content1-0",
           "_protectedParams": [],
